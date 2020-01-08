@@ -1,0 +1,27 @@
+body {
+  background-color: #c3f2ff;
+  color: #116e88;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.intro {
+  text-align: center;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.credentials, .skills {
+  background-color: #fefffb;
+  margin: 20px 100px;
+  padding: 10px;
+}
+
+.important {
+  text-decoration: underline;
+}
+
+.skills h3 {
+  font-style: italic;
+}
