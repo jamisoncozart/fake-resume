@@ -25,3 +25,15 @@ body {
 .skills h3 {
   font-style: italic;
 }
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  .skills {
+    background-color: #f5a8eb;
+  }
+}
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  .credentials {
+    background-color: #f5a8eb;
+  }
+}
